@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification using Decision Tree
+# 🌸 Iris Flower Classification using RFC
 
 Classify iris flowers into Setosa, Versicolor, or Virginica using a Decision Tree Classifier trained on the classic Iris dataset.
 
@@ -53,7 +53,7 @@ Iris-Flower-Classification/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/saadtoorx/Iris-Flower-Classification.git
+git clone https://github.com/saadtoorx/Iris-Flower-Classification-using-RFC.git
 cd Iris-Flower-Classification
 ```
 
